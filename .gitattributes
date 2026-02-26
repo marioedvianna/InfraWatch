@@ -1,0 +1,6 @@
+*.sql linguist-detectable=true
+*.yml linguist-detectable=true
+*.yaml linguist-detectable=true
+*.conf linguist-detectable=true
+*.sh linguist-detectable=true
+*.ps1 linguist-detectable=true
